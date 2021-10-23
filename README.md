@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @EkaSaffronGaruda
+- 👀 Religions, Philosophy, Politics.
