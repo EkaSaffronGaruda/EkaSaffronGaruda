@@ -8,3 +8,4 @@
 # Contact
 - Discord: EkaSaffronGaruda#8870
 - Instagram: @EkaSaffronGaruda
+- Public GPG Key: [view](./EkaSaffronGaruda_public_gpg.key)
